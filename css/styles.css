@@ -7,12 +7,6 @@ background-color: #FFFFFF;
 
 
 
-
-.header-address {
-    font-style: normal
-}
-
-
 /* ===========HEADER=========== */
 
 .header {
@@ -22,7 +16,7 @@ background-color: #FFFFFF;
 
 .header-logo {
     color: #4D5AE5;
-        font-family: "Raleway", sans-serif
+        font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
@@ -99,8 +93,9 @@ color: #434455;
 .hero-title { 
         font-size: 56px;
         font-weight: 700;
-        line-height: 1,07;
-        letter-spacing: 0,02em;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
     }
 
 .hero-btn {
@@ -166,6 +161,7 @@ color: #2E2F42;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+        text-align: center;
 }
 
 .team-list {}
@@ -202,6 +198,7 @@ color: #2E2F42;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
 }
 
 .portfolio-subtitle {
