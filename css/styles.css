@@ -39,15 +39,21 @@ color: #404bbf;
 .header-item-link:focus {
     color:#404bbf
 }
-.header-mail, .header-phone {
+.header-contacts-link {
     color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 
 }
-.header-mail, .header-phone:hover {
+
+
+
+.header-contacts-link:hover {
 color: #404bbf ;  
 }
 
-.header-mail, .header-phone:focus {
+.header-contacts-link:focus {
     color: #404bbf;
 }
 .header-menu-list {
