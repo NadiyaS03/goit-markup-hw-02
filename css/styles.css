@@ -14,7 +14,8 @@ a {
 /* ===========HEADER============ */
 
 .header {
-    background: #FFF);
+    background: #FFF;
+    font-style: normal;
 }
 
 
@@ -44,7 +45,6 @@ color: #404bbf;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-
 }
 
 
